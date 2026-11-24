@@ -1,0 +1,4 @@
+title: X RPL Dwisaka
+description: Website kelas X RPL dengan Next.js dan Express. Berita, galeri, daftar anggota, dan persetujuan pembayaran kas, dengan data di file Excel.
+lang: id
+exclude: [ui, backend, node_modules, package.json, package-lock.json]
